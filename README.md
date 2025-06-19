@@ -1,5 +1,5 @@
 # Data-100-Project-1 (UC Berkeley Class Project)
-
+**Programming Language** : Python
 ## Project A1 
 Performed basic Exploratory Data Analysis (EDA) to understand the underlying structure and distribution of the dataset. Enhanced the dataset by engineering new features and simultaneously conducted data cleaning to improve overall data quality and model readiness.
 
